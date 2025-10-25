@@ -1,2 +1,2 @@
-# Assembly_Language_Fall_2025
+# CSE-Assembly-Labs
 for learning and practicing assembly language taught in University
